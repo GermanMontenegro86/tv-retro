@@ -1,0 +1,66 @@
+.caballeros{
+
+    
+    background-color:lightblue;
+
+    header{
+    text-align: center;
+        background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 200px;
+        height: 100px;
+    }
+        
+    
+    h2{
+        color: rgb(20, 218, 36);
+        text-align: center;
+    }
+
+    header{
+        h1{
+            color: white;
+            background-color: rgba(0, 0, 0, 0.384);
+            transform: translate(3px, 0px);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bold;
+            text-align: center;
+
+        }
+    }
+    main{
+        background-image: url("https://fondosmil.com/fondo/35285.jpg") ;
+
+       li{
+        list-style: none;
+        color: red;
+       }
+
+       p{
+        color: white;
+        margin: 0 auto;
+        font-size: 1em;
+        
+       }
+    }
+
+    .accordion{
+        --bs-accordion-bg: #dd0c0c8f;
+        margin-bottom: 30px;
+
+        li{
+            padding: 1rem;
+        }
+
+        .accordion-item{
+            color: yellow;
+            a{
+                color: #0dfd1d;
+    text-decoration: underline;
+            }
+        }
+
+        
+    }
+}
+
