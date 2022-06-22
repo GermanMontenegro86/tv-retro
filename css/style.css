@@ -1,0 +1,113 @@
+* {
+  margin-top: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+#index {
+  background-color: rgba(7, 3, 235, 0.486); }
+  #index header {
+    text-align: center;
+    background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+    height: 100px; }
+    #index header h1 {
+      color: white;
+      background-color: rgba(0, 0, 0, 0.384);
+      transform: translate(3px, 0px);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-weight: bold;
+      text-align: center; }
+  #index section {
+    margin-top: 20px; }
+    #index section p {
+      max-width: 350px;
+      margin: 0 auto;
+      color: white; }
+
+main {
+  margin-top: 20px; }
+  main p {
+    max-width: 350px;
+    margin-top: 20px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-weight: bolder; }
+  main .anime1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-auto-rows: 300px;
+    padding: 20px;
+    gap: 20px;
+    background-color: black; }
+  main img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 3px; }
+  main .img1 p {
+    font-size: .6em;
+    transform: translate(0px, -20px);
+    background-color: #00000057;
+    margin: auto;
+    text-align: center; }
+
+.pagination {
+  justify-content: center;
+  margin-top: 10px; }
+
+#caballeros {
+  background-color: rgba(7, 3, 235, 0.486); }
+  #caballeros header {
+    text-align: center;
+    background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+    height: 100px; }
+    #caballeros header h1 {
+      color: white;
+      background-color: rgba(0, 0, 0, 0.384);
+      transform: translate(3px, 0px);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-weight: bold;
+      text-align: center; }
+  #caballeros main {
+    background-image: url(https://nosomosnonos.com/wp-content/uploads/2021/09/Los-Caballeros-del-Zodiaco-Saint-Seiya.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 600px; }
+    #caballeros main h2 {
+      text-align: center;
+      color: #80e40f;
+      background-color: rgba(0, 0, 0, 0.541); }
+    #caballeros main img {
+      width: 40vw; }
+    #caballeros main ul {
+      background-color: rgba(255, 254, 254, 0.61);
+      color: unset; }
+    #caballeros main li {
+      list-style: none;
+      font: 1em;
+      font-weight: bold;
+      color: blue; }
+    #caballeros main p {
+      font-size: .9em;
+      max-width: 350px; }
+  #caballeros .accordion-button {
+    color: white; }
+  #caballeros .accordion {
+    --bs-accordion-color: #050505;
+    --bs-accordion-bg: #020202;
+    background-color: #0f5132; }
+  #caballeros .accordion-button:not(.collapsed) {
+    background-color: #0f5132; }
+  #caballeros a {
+    color: #eb0fa1;
+    text-decoration: none; }
+    #caballeros a:visited {
+      color: blue; }
+  #caballeros .accordion-body li {
+    margin-top: 20px;
+    list-style: none; }
+  #caballeros .pagination a {
+    margin: 10px; }
