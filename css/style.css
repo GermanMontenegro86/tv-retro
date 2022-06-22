@@ -55,9 +55,18 @@
     justify-content: center;
     margin-top: 10px;
     margin-bottom: 10px; }
+  .index .footer {
+    margin-bottom: auto;
+    background-color: brown;
+    margin-top: 25px;
+    height: 31px; }
+    .index .footer p {
+      color: black;
+      font-weight: bolder;
+      margin-left: 12px; }
 
 .caballeros {
-  background-color: lightblue; }
+  background-color: black; }
   .caballeros header {
     text-align: center;
     background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
@@ -84,8 +93,7 @@
       margin: 0 auto;
       font-size: 1em; }
   .caballeros .accordion {
-    --bs-accordion-bg: #dd0c0c8f;
-    margin-bottom: 30px; }
+    --bs-accordion-bg: #dd0c0c8f; }
     .caballeros .accordion li {
       padding: 1rem; }
     .caballeros .accordion .accordion-item {
@@ -93,10 +101,12 @@
       .caballeros .accordion .accordion-item a {
         color: #0dfd1d;
         text-decoration: underline; }
-
-.footer {
-  margin-bottom: auto;
-  background-color: brown; }
-  .footer p {
-    color: black;
-    font-weight: bolder; }
+  .caballeros .footer {
+    margin-bottom: auto;
+    background-color: brown;
+    height: 30px;
+    margin-top: 91px; }
+    .caballeros .footer p {
+      color: black;
+      font-weight: bolder;
+      margin-left: 12px; }

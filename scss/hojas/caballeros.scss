@@ -1,7 +1,7 @@
 .caballeros{
 
     
-    background-color:lightblue;
+    background-color:black;
 
     header{
     text-align: center;
@@ -46,7 +46,7 @@
 
     .accordion{
         --bs-accordion-bg: #dd0c0c8f;
-        margin-bottom: 30px;
+       
 
         li{
             padding: 1rem;
@@ -61,6 +61,19 @@
         }
 
         
+    }
+
+    .footer{
+        margin-bottom: auto;
+        background-color: brown;
+        height: 30px;
+        margin-top: 91px;
+        p{
+            color: black;
+            font-weight: bolder;
+            
+            margin-left: 12px;
+        }
     }
 }
 
