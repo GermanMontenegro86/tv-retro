@@ -1,0 +1,58 @@
+.capitulos {
+    background-color: black;
+
+    .pagination {
+
+        justify-content: center;
+    }
+
+    main {
+        background-image: url("https://fondosmil.com/fondo/35285.jpg");
+
+        li {
+            list-style: none;
+            color: red;
+        }
+
+        p {
+            color: white;
+            margin: 0 auto;
+            font-size: 1em;
+
+        }
+    }
+
+    .accordion-button {
+        color: #08c3ad;
+    }
+
+    .accordion {
+        --bs-accordion-bg: #dd0c0c8f;
+
+
+
+        li {
+            padding: 1rem;
+        }
+
+        .accordion-item {
+            color: yellow;
+
+            a {
+                color: #0dfd1d;
+                text-decoration: underline;
+            }
+        }
+
+
+    }
+
+    .btn{
+        margin-top: 38px;
+        margin-left: 168px;
+
+        a{
+            text-decoration: none;
+        }
+    }
+}

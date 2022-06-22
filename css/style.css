@@ -92,6 +92,8 @@
       color: white;
       margin: 0 auto;
       font-size: 1em; }
+  .caballeros .accordion-button {
+    color: #08c3ad; }
   .caballeros .accordion {
     --bs-accordion-bg: #dd0c0c8f; }
     .caballeros .accordion li {
@@ -110,3 +112,33 @@
       color: black;
       font-weight: bolder;
       margin-left: 12px; }
+
+.capitulos {
+  background-color: black; }
+  .capitulos .pagination {
+    justify-content: center; }
+  .capitulos main {
+    background-image: url("https://fondosmil.com/fondo/35285.jpg"); }
+    .capitulos main li {
+      list-style: none;
+      color: red; }
+    .capitulos main p {
+      color: white;
+      margin: 0 auto;
+      font-size: 1em; }
+  .capitulos .accordion-button {
+    color: #08c3ad; }
+  .capitulos .accordion {
+    --bs-accordion-bg: #dd0c0c8f; }
+    .capitulos .accordion li {
+      padding: 1rem; }
+    .capitulos .accordion .accordion-item {
+      color: yellow; }
+      .capitulos .accordion .accordion-item a {
+        color: #0dfd1d;
+        text-decoration: underline; }
+  .capitulos .btn {
+    margin-top: 38px;
+    margin-left: 168px; }
+    .capitulos .btn a {
+      text-decoration: none; }
