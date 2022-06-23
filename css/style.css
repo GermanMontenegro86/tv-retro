@@ -160,7 +160,21 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  width: 58vw;
-  transform: translate(152px, 1px); }
+  width: 42vw;
+  transform: translate(176px, 1px); }
   .gif img {
     width: 20vw; }
+
+.dragonBall {
+  background-color: black; }
+  .dragonBall p {
+    font-size: 3em;
+    text-align: center;
+    color: white; }
+
+.droopy {
+  background-color: #020202; }
+  .droopy p {
+    font-size: 3em;
+    text-align: center;
+    color: white; }
