@@ -85,6 +85,11 @@
     text-align: center; }
   .caballeros main {
     background-image: url("https://fondosmil.com/fondo/35285.jpg"); }
+    .caballeros main figure {
+      margin: 0 0 -7rem; }
+    .caballeros main img {
+      width: 62vw;
+      transform: translate(145px, 1px); }
     .caballeros main li {
       list-style: none;
       color: red; }
@@ -150,3 +155,12 @@
 .ini {
   margin-top: 38px;
   margin-left: 168px; }
+
+.gif {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: -67px; }
+  .gif img {
+    width: 20vw; }
