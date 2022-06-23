@@ -122,7 +122,8 @@
     width: 14vw; }
   .caballeros .gif img {
     margin: 20px;
-    margin-bottom: -50px; }
+    margin-bottom: -50px;
+    width: 36vw; }
 
 .capitulos {
   background-color: black; }
