@@ -39,8 +39,9 @@
         }
 
         img {
-            width: 62vw;
-            transform: translate(145px, 1px);
+            width: 37vw;
+            transform: translate(182px, 1px);
+
         }
 
 
@@ -96,5 +97,17 @@
 
             margin-left: 12px;
         }
+    }
+
+    .gif{
+      display: flex;
+      width: 14vw;
+
+        
+    }
+
+    .gif img{
+        margin: 20px;
+        margin-bottom: -50px;
     }
 }
