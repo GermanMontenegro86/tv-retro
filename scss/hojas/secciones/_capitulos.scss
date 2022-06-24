@@ -41,6 +41,9 @@
             a {
                 color: #0dfd1d;
                 text-decoration: underline;
+                &:visited{
+                    color: red;
+                }
             }
         }
 

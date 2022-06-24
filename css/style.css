@@ -149,6 +149,8 @@
       .capitulos .accordion .accordion-item a {
         color: #0dfd1d;
         text-decoration: underline; }
+        .capitulos .accordion .accordion-item a:visited {
+          color: red; }
   .capitulos .btn {
     margin-top: 38px;
     margin-left: 168px; }
