@@ -4,7 +4,7 @@
   font-family: sans-serif; }
 
 .index {
-  background-color: lightblue; }
+  background-color: #080808; }
   .index header {
     text-align: center;
     background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
@@ -23,38 +23,42 @@
     .index section p {
       max-width: 350px;
       margin: 0 auto;
-      color: white; }
-  .index main {
-    margin-top: 20px; }
-    .index main p {
-      max-width: 350px;
-      margin-top: 20px;
-      margin: 0 auto;
-      font-family: sans-serif;
-      font-weight: bolder; }
-    .index main .anime1 {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(2, 1fr);
-      grid-auto-rows: 300px;
-      padding: 20px;
-      gap: 20px;
-      background-color: black; }
-    .index main img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 3px; }
-    .index main .img1 p {
-      font-size: .6em;
-      transform: translate(0px, -20px);
-      background-color: #00000057;
-      margin: auto;
-      text-align: center; }
-  .index .pagination {
-    justify-content: center;
-    margin-top: 10px;
-    margin-bottom: 10px; }
+      color: white;
+      font-size: 1.1em;
+      margin-top: 67px; }
+  .index .navbar {
+    background-color: #8a2be2d6; }
+  .index .nav-link {
+    color: black;
+    font-size: 1.6em;
+    font-weight: bolder;
+    border-radius: 10px;
+    background: #00ffff7a; }
+  .index .dropdown-menu {
+    background: #00ffff7a; }
+  .index .dropdown-item {
+    font-weight: bolder;
+    font-size: 1.3em; }
+  .index .navbar-toggler {
+    color: red; }
+  .index button:not(:disabled) {
+    background: #09f0db; }
+  .index .series {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    justify-content: space-around;
+    text-align: center;
+    color: red;
+    height: 214px;
+    margin-top: 50px; }
+  .index .series h2 {
+    font-size: 2em;
+    text-shadow: 2px 3px 5px blue; }
+  .index .series img {
+    width: 30vw;
+    height: 10vh;
+    box-shadow: 0px 0px 3px 5px yellow; }
   .index .footer {
     margin-bottom: auto;
     background-color: brown;
@@ -176,19 +180,18 @@
   .gif img {
     width: 20vw; }
 
-.dragonBall {
-  background-color: black; }
-  .dragonBall p {
-    font-size: 3em;
+.gruop {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: 150px;
+  gap: 5px;
+  margin-bottom: 519px; }
+  .gruop__foto img {
+    width: 100%;
+    height: 100%; }
+  .gruop__foto h6 {
+    font-size: 0.6em;
     text-align: center;
-    color: white; }
-
-.droopy {
-  background-color: #020202; }
-  .droopy p {
-    font-size: 3em;
-    text-align: center;
-    color: white; }
-  .droopy img {
-    width: 100vw;
-    margin-left: -8px; }
+    color: greenyellow;
+    background-color: #ffffff26; }
