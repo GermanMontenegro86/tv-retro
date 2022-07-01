@@ -56,8 +56,8 @@
     font-size: 2em;
     text-shadow: 2px 3px 5px blue; }
   .index .series img {
-    width: 30vw;
-    height: 10vh;
+    width: 42vw;
+    height: 16vh;
     box-shadow: 0px 0px 3px 5px yellow; }
   .index .footer {
     margin-bottom: auto;
@@ -178,7 +178,12 @@
   width: 42vw;
   transform: translate(176px, 1px); }
   .gif img {
-    width: 20vw; }
+    width: 42vw; }
+
+.gif_grande img {
+  width: 60vw;
+  width: 100vw;
+  margin-bottom: -94px; }
 
 .gruop {
   display: grid;
