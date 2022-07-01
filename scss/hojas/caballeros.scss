@@ -3,11 +3,11 @@
 
     background-color: black;
 
-    .goku{
+    .goku {
         width: 40vw;
         transform: translate(216px, -35px);
-    margin-top: 36px;
-    margin-bottom: 10px;
+        margin-top: 36px;
+        margin-bottom: 10px;
     }
 
 
@@ -23,6 +23,10 @@
     h2 {
         color: rgb(20, 218, 36);
         text-align: center;
+    }
+
+    .resaltar {
+        color:#00ff08;
     }
 
     header {
@@ -46,17 +50,15 @@
         }
 
         img {
-            width: 37vw;
-            transform: translate(182px, 1px);
+            width: 43vw;
+            transform: translate(205px, -68px);
+            margin-top: 62px;
 
         }
 
-
-
-
         li {
             list-style: none;
-            color: red;
+            color:white;
         }
 
         p {
@@ -106,14 +108,14 @@
         }
     }
 
-    .gif{
-      display: flex;
-      width: 14vw;
+    .gif {
+        display: flex;
+        width: 14vw;
 
-        
+
     }
 
-    .gif img{
+    .gif img {
         margin: 20px;
         margin-bottom: -50px;
     }

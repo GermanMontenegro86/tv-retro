@@ -85,6 +85,8 @@
   .caballeros h2 {
     color: #14da24;
     text-align: center; }
+  .caballeros .resaltar {
+    color: #00ff08; }
   .caballeros header h1 {
     color: white;
     background-color: rgba(0, 0, 0, 0.384);
@@ -97,11 +99,12 @@
     .caballeros main figure {
       margin: 0 0 -7rem; }
     .caballeros main img {
-      width: 37vw;
-      transform: translate(182px, 1px); }
+      width: 43vw;
+      transform: translate(205px, -68px);
+      margin-top: 62px; }
     .caballeros main li {
       list-style: none;
-      color: red; }
+      color: white; }
     .caballeros main p {
       color: white;
       margin: 0 auto;
