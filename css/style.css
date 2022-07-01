@@ -67,6 +67,11 @@
 
 .caballeros {
   background-color: black; }
+  .caballeros .goku {
+    width: 40vw;
+    transform: translate(216px, -35px);
+    margin-top: 36px;
+    margin-bottom: 10px; }
   .caballeros header {
     text-align: center;
     background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
