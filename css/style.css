@@ -114,7 +114,7 @@
   .caballeros .accordion {
     --bs-accordion-bg: #dd0c0c8f; }
     .caballeros .accordion li {
-      padding: 1rem; }
+      margin-top: 28px; }
     .caballeros .accordion .accordion-item {
       color: yellow; }
       .caballeros .accordion .accordion-item a {
