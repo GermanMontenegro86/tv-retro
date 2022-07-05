@@ -80,6 +80,7 @@
 
         li {
             margin-top: 28px;
+            list-style-type:circle;
         }
 
         .accordion-item {
@@ -87,7 +88,7 @@
 
             a {
                 color: #0dfd1d;
-                text-decoration: underline;
+                text-decoration: none;
             }
         }
 

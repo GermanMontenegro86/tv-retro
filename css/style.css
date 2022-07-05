@@ -114,12 +114,13 @@
   .caballeros .accordion {
     --bs-accordion-bg: #dd0c0c8f; }
     .caballeros .accordion li {
-      margin-top: 28px; }
+      margin-top: 28px;
+      list-style-type: circle; }
     .caballeros .accordion .accordion-item {
       color: yellow; }
       .caballeros .accordion .accordion-item a {
         color: #0dfd1d;
-        text-decoration: underline; }
+        text-decoration: none; }
   .caballeros .footer {
     margin-bottom: auto;
     background-color: brown;
@@ -154,12 +155,12 @@
   .capitulos .accordion {
     --bs-accordion-bg: #dd0c0c8f; }
     .capitulos .accordion li {
-      padding: 1rem; }
+      margin-top: 45px;
+      text-decoration: none; }
     .capitulos .accordion .accordion-item {
       color: yellow; }
       .capitulos .accordion .accordion-item a {
-        color: #0dfd1d;
-        text-decoration: underline; }
+        color: #0dfd1d; }
   .capitulos .btn {
     margin-top: 38px;
     margin-left: 168px; }
