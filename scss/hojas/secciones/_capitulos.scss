@@ -41,7 +41,14 @@
 
             a {
                 color: #0dfd1d;
+<<<<<<< HEAD
                 
+=======
+                text-decoration: underline;
+                &:visited{
+                    color: red;
+                }
+>>>>>>> thundercats
             }
         }
 

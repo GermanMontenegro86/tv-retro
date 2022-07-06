@@ -135,7 +135,8 @@
     width: 14vw; }
   .caballeros .gif img {
     margin: 20px;
-    margin-bottom: -50px; }
+    margin-bottom: -50px;
+    width: 36vw; }
 
 .capitulos {
   background-color: black; }
@@ -160,7 +161,14 @@
     .capitulos .accordion .accordion-item {
       color: yellow; }
       .capitulos .accordion .accordion-item a {
+<<<<<<< HEAD
         color: #0dfd1d; }
+=======
+        color: #0dfd1d;
+        text-decoration: underline; }
+        .capitulos .accordion .accordion-item a:visited {
+          color: red; }
+>>>>>>> thundercats
   .capitulos .btn {
     margin-top: 38px;
     margin-left: 168px; }
