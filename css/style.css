@@ -161,7 +161,8 @@
     .capitulos .accordion .accordion-item {
       color: yellow; }
       .capitulos .accordion .accordion-item a {
-        color: #0dfd1d; }
+        color: #0dfd1d;
+        text-decoration: none; }
   .capitulos .btn {
     margin-top: 38px;
     margin-left: 168px; }
