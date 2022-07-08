@@ -101,5 +101,38 @@
         }
     }
 
+    .row {
+        margin-top: -7px;
+
+    }
+
+    .card {
+        --bs-card-bg: #12cc9fc9;
+        color: #141619;
+        
+    }
+
+    .card-title {
+        font-size: 1.8em;
+        color: #0d1387;
+        font-weight: 600;
+    }
+
+    .card-text{
+        font-family: serif;
+        font-size: 1.2em;
+    }
+
+    .text-muted{
+        a{
+            font-size: 1.2em;
+            text-decoration: none;
+            color: white;
+            &:hover{
+                color: blue;
+            }
+        }
+    }
+
 
 }

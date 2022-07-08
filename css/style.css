@@ -68,14 +68,32 @@
       color: black;
       font-weight: bolder;
       margin-left: 12px; }
+  .index .row {
+    margin-top: -7px; }
+  .index .card {
+    --bs-card-bg: #12cc9fc9;
+    color: #141619; }
+  .index .card-title {
+    font-size: 1.8em;
+    color: #0d1387;
+    font-weight: 600; }
+  .index .card-text {
+    font-family: serif;
+    font-size: 1.2em; }
+  .index .text-muted a {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white; }
+    .index .text-muted a:hover {
+      color: blue; }
 
 .caballeros {
   background-color: black; }
   .caballeros .goku {
-    width: 40vw;
-    transform: translate(216px, -35px);
+    width: 100vw;
+    transform: translate(0px, -39px);
     margin-top: 36px;
-    margin-bottom: 10px; }
+    margin-bottom: 74px; }
   .caballeros header {
     text-align: center;
     background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
@@ -99,9 +117,9 @@
     .caballeros main figure {
       margin: 0 0 -7rem; }
     .caballeros main img {
-      width: 43vw;
-      transform: translate(205px, -68px);
-      margin-top: 62px; }
+      width: 100vw;
+      transform: translate(-2px, -112px);
+      margin-top: 112px; }
     .caballeros main li {
       list-style: none;
       color: white; }
