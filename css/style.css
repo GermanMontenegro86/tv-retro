@@ -213,3 +213,13 @@
   width: 60vw;
   width: 100vw;
   margin-bottom: -94px; }
+
+@media only screen and (min-width: 914px) {
+  main div {
+    transform: translate(-3px, -8px); }
+  main iframe {
+    width: 100vw; }
+  .capitulos .btn {
+    margin-top: 20px;
+    margin-bottom: 23px;
+    margin-left: 434px; } }
