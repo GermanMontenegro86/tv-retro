@@ -103,13 +103,19 @@
 
     .row {
         margin-top: -7px;
+        margin: auto;
 
     }
 
     .card {
         --bs-card-bg: #12cc9fc9;
         color: #141619;
-        
+
+    }
+
+    .card img {
+        max-width: 100vw;
+        max-height: 30vh;
     }
 
     .card-title {
@@ -118,17 +124,18 @@
         font-weight: 600;
     }
 
-    .card-text{
+    .card-text {
         font-family: serif;
         font-size: 1.2em;
     }
 
-    .text-muted{
-        a{
+    .text-muted {
+        a {
             font-size: 1.2em;
             text-decoration: none;
             color: white;
-            &:hover{
+
+            &:hover {
                 color: blue;
             }
         }
