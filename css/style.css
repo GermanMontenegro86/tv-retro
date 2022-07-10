@@ -216,9 +216,9 @@
 
 @media only screen and (min-width: 914px) {
   main div {
-    transform: translate(-3px, -8px); }
+    transform: translate(142px, 1px); }
   main iframe {
-    width: 100vw; }
+    width: 60vw; }
   .capitulos .btn {
     margin-top: 20px;
     margin-bottom: 23px;
