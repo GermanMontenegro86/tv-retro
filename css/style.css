@@ -214,12 +214,187 @@
   width: 100vw;
   margin-bottom: -94px; }
 
-@media only screen and (min-width: 914px) {
-  main div {
-    transform: translate(142px, 1px); }
-  main iframe {
-    width: 60vw; }
+@media (min-width: 1440px) {
+  .index .navbar {
+    background-color: #2be22fd6; }
+  .dropdown {
+    transform: translate(1089px, -1px); }
+  .index header h1 {
+    background-color: rgba(0, 0, 0, 0.677); }
+  .index header {
+    background-size: 100% 559px;
+    height: 639px; }
+  .index section p {
+    max-width: 1065px;
+    font-size: 1.5em;
+    margin-top: -68px; }
+  .index .series img {
+    width: 18vw;
+    height: 38vh; }
+  .index .footer p {
+    margin-left: 799px;
+    margin-top: 500px; }
+  .h-100 {
+    max-width: 26vw; }
+  .caballeros header {
+    background-size: 100% 408px;
+    height: 404px; }
+  .caballeros header h1 {
+    font-size: 6em; }
+  .caballeros h2 {
+    font-size: 3em; }
+  .caballeros main img {
+    width: 30vw;
+    margin-bottom: -101px;
+    transform: translate(654px, -112px); }
+  .caballeros .accordion {
+    max-width: 50vw;
+    margin: auto;
+    margin-top: 111px; }
+  .gif_grande img {
+    display: none; }
+  .caballeros .goku {
+    width: 42vw;
+    transform: translate(420px, -39px);
+    margin-bottom: -27px; }
+  .caballeros .gif img {
+    display: none; }
+  .capitulos main div {
+    width: 100vw;
+    transform: translate(208px, 3px); }
+  iframe {
+    width: 72vw;
+    height: 79vh; }
+  .capitulos .accordion {
+    max-width: 60vw;
+    margin: auto; }
   .capitulos .btn {
-    margin-top: 20px;
-    margin-bottom: 23px;
-    margin-left: 434px; } }
+    margin-top: 23px;
+    margin-left: 689px;
+    margin-bottom: 16px; }
+  .temporada h2 {
+    margin-left: 142px; } }
+
+@media (min-width: 1024px) {
+  .index .navbar {
+    background-color: #2be22fd6; }
+  .dropdown {
+    transform: translate(1519px, 10px); }
+  .index header h1 {
+    background-color: rgba(0, 0, 0, 0.677); }
+  .index header {
+    background-size: 100% 559px;
+    height: 639px; }
+  .index section p {
+    max-width: 1285px;
+    font-size: 1.5em;
+    margin-top: -68px; }
+  .index .series img {
+    width: 18vw;
+    height: 22vh; }
+  .index .footer {
+    margin-top: -390px;
+    height: -32px;
+    height: 5vh; }
+  .index .footer p {
+    margin-left: 766px;
+    margin-top: 520px; }
+  .h-100 {
+    max-width: 21vw; }
+  .caballeros header {
+    background-size: 100% 408px;
+    height: 404px; }
+  .caballeros header h1 {
+    font-size: 6em; }
+  .caballeros h2 {
+    font-size: 3em; }
+  .caballeros main img {
+    width: 30vw;
+    margin-bottom: -101px;
+    transform: translate(646px, -112px); }
+  .caballeros .accordion {
+    max-width: 50vw;
+    margin: auto;
+    margin-top: 111px; }
+  .gif_grande img {
+    display: none; }
+  .caballeros .goku {
+    width: 42vw;
+    transform: translate(553px, -39px);
+    margin-bottom: -27px; }
+  .caballeros .gif img {
+    display: none; }
+  .capitulos main div {
+    width: 100vw;
+    transform: translate(281px, 10px); }
+  iframe {
+    width: 72vw;
+    height: 79vh; }
+  .capitulos .accordion {
+    max-width: 60vw;
+    margin: auto; }
+  .capitulos .btn {
+    margin-top: 23px;
+    margin-left: 920px;
+    margin-bottom: 16px; }
+  .temporada h2 {
+    margin-left: 142px; } }
+
+@media (min-width: 768px) {
+  .index .navbar {
+    background-color: #2be22fd6; }
+  .index header h1 {
+    background-color: rgba(0, 0, 0, 0.677); }
+  .index header {
+    background-size: 100% 257px;
+    height: 325px; }
+  .index section p {
+    max-width: 701px;
+    margin-top: -78px; }
+  .index .series img {
+    width: 18vw;
+    height: 22vh; }
+  .index .footer p {
+    color: black;
+    font-weight: bolder;
+    margin-left: 230px;
+    /* margin: auto; */
+    margin-top: 87px; }
+  .caballeros header {
+    background-size: 100% 408px;
+    height: 404px; }
+  .caballeros header h1 {
+    font-size: 6em; }
+  .caballeros h2 {
+    font-size: 3em; }
+  .caballeros main img {
+    width: 30vw;
+    margin-bottom: -101px;
+    transform: translate(269px, -112px); }
+  .caballeros .accordion {
+    max-width: 50vw;
+    margin: auto;
+    margin-top: 111px; }
+  .gif_grande img {
+    display: none; }
+  .caballeros .goku {
+    width: 42vw;
+    transform: translate(553px, -39px);
+    margin-bottom: -27px; }
+  .caballeros .gif img {
+    display: none; }
+  .capitulos main div {
+    width: 100vw;
+    transform: translate(103px, -1px); }
+  iframe {
+    width: 72vw;
+    height: 79vh; }
+  .capitulos .accordion {
+    max-width: 60vw;
+    margin: auto; }
+  .capitulos .btn {
+    margin-top: 15px;
+    margin-left: 351px;
+    margin-bottom: 10px; }
+  .temporada h2 {
+    margin-left: 142px; } }
