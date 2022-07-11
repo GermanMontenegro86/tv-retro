@@ -13,6 +13,10 @@
         height: 325px;
     }
 
+    .dropdown{
+        transform: none;
+    }
+
     .index section p {
         max-width: 701px;
         margin-top: -78px;
@@ -27,7 +31,6 @@
         color: black;
         font-weight: bolder;
         margin-left: 230px;
-        /* margin: auto; */
         margin-top: 87px;
     }
 
@@ -65,7 +68,7 @@
 
     .caballeros .goku {
         width: 42vw;
-        transform: translate(553px, -39px);
+        transform: translate(222px, -39px);
         margin-bottom: -27px;
     }
 
@@ -75,12 +78,12 @@
 
     .capitulos main div {
         width: 100vw;
-        transform: translate(103px, -1px);
+        transform: translate(113px, -1px);
     }
 
     iframe {
         width: 72vw;
-        height: 79vh;
+        
     }
 
     .capitulos .accordion {

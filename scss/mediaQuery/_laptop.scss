@@ -1,12 +1,14 @@
-@media (min-width: 1024px) {
+@media (min-width: 1024px) and (max-width: 1439px) {
 
     .index .navbar {
         background-color: #2be22fd6;
     }
 
     .dropdown {
-       transform: translate(1519px, 10px);
+        transform: translate(748px, 10px);
     }
+
+
 
     .index header h1 {
         background-color: rgba(0, 0, 0, 0.677);
@@ -18,7 +20,7 @@
     }
 
     .index section p {
-        max-width: 1285px;
+        max-width: 1276px;
         font-size: 1.5em;
         margin-top: -68px;
     }
@@ -29,7 +31,7 @@
     }
 
     .index .footer{
-        margin-top: -390px;
+        margin-top: 1px;
         height: -32px;
         height: 5vh;
     }
@@ -42,9 +44,7 @@
 
     // Anime y series hojas
 
-    .h-100 {
-        max-width: 21vw;
-    }
+    
 
     // hojas de series
 
@@ -62,9 +62,9 @@
     }
 
     .caballeros main img {
-        width: 30vw;
-        margin-bottom: -101px;
-        transform: translate(646px, -112px);
+        width: 42vw;
+        margin-bottom: -51px;
+        transform: translate(297px, -68px);
     }
 
     .caballeros .accordion {
@@ -89,7 +89,7 @@
 
     .capitulos main div {
         width: 100vw;
-        transform: translate(281px, 10px);
+        transform: translate(153px, -1px);
     }
 
     iframe {
@@ -104,7 +104,7 @@
 
     .capitulos .btn {
         margin-top: 23px;
-        margin-left: 920px;
+        margin-left: 483px;
         margin-bottom: 16px;
     }
 
