@@ -152,6 +152,15 @@
       color: black;
       font-weight: bolder;
       margin-left: 12px; }
+  .caballeros .footer__hammer {
+    margin-bottom: auto;
+    background-color: brown;
+    height: 30px;
+    margin-top: 196px; }
+    .caballeros .footer__hammer p {
+      color: black;
+      font-weight: bolder;
+      margin-left: 12px; }
   .caballeros .gif {
     display: flex;
     width: 14vw; }
