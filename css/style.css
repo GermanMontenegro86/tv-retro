@@ -59,15 +59,12 @@
     width: 42vw;
     height: 16vh;
     box-shadow: 0px 0px 3px 5px yellow; }
-  .index .footer {
-    margin-bottom: auto;
-    background-color: brown;
-    margin-top: 25px;
-    height: 31px; }
-    .index .footer p {
-      color: black;
-      font-weight: bolder;
-      margin-left: 12px; }
+  .index .text-lg-start {
+    margin-top: 10px; }
+  .index .bg {
+    background: rgba(25, 158, 23, 0.823); }
+  .index .p-3 {
+    color: white; }
   .index .row {
     margin-top: -7px;
     margin: auto; }
@@ -91,84 +88,84 @@
     .index .text-muted a:hover {
       color: blue; }
 
-.caballeros {
+.series {
   background-color: black; }
-  .caballeros .goku {
-    width: 100vw;
-    transform: translate(0px, -39px);
-    margin-top: 36px;
-    margin-bottom: 74px; }
-  .caballeros header {
+  .series header {
     text-align: center;
     background-image: url(https://www.gratistodo.com/wp-content/uploads/2022/02/Dibujos-de-los-anos-80.jpg);
     background-repeat: no-repeat;
     background-size: 100% 200px;
     height: 100px; }
-  .caballeros h2 {
+  .series h2 {
     color: #14da24;
     text-align: center; }
-  .caballeros .resaltar {
+  .series .resaltar {
     color: #00ff08; }
-  .caballeros header h1 {
+  .series header h1 {
     color: white;
     background-color: rgba(0, 0, 0, 0.384);
     transform: translate(3px, 0px);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     text-align: center; }
-  .caballeros main {
+  .series main {
     background-image: url("https://fondosmil.com/fondo/35285.jpg"); }
-    .caballeros main figure {
+    .series main figure {
       margin: 0 0 -7rem; }
-    .caballeros main img {
+    .series main img {
       width: 100vw;
       transform: translate(-2px, -112px);
       margin-top: 112px; }
-    .caballeros main li {
+    .series main li {
       list-style: none;
       color: white; }
-    .caballeros main p {
+    .series main p {
       color: white;
       margin: 0 auto;
       font-size: 1em; }
-  .caballeros .accordion-button {
+  .series .accordion-button {
     color: #08c3ad; }
-  .caballeros .accordion {
+  .series .accordion {
     --bs-accordion-bg: #dd0c0c8f; }
-    .caballeros .accordion li {
+    .series .accordion li {
       margin-top: 28px;
       list-style-type: circle; }
-    .caballeros .accordion .accordion-item {
+    .series .accordion .accordion-item {
       color: yellow; }
-      .caballeros .accordion .accordion-item a {
+      .series .accordion .accordion-item a {
         color: #0dfd1d;
         text-decoration: none; }
-  .caballeros .footer {
-    margin-bottom: auto;
-    background-color: brown;
-    height: 30px;
-    margin-top: 91px; }
-    .caballeros .footer p {
-      color: black;
-      font-weight: bolder;
-      margin-left: 12px; }
-  .caballeros .footer__hammer {
-    margin-bottom: auto;
-    background-color: brown;
-    height: 30px;
-    margin-top: 196px; }
-    .caballeros .footer__hammer p {
-      color: black;
-      font-weight: bolder;
-      margin-left: 12px; }
-  .caballeros .gif {
+  .series .series .text-lg-start {
+    margin-top: 81px; }
+  .series .bg {
+    background: rgba(25, 158, 23, 0.823); }
+  .series .p-3 {
+    color: white; }
+  .series .gif {
     display: flex;
     width: 14vw; }
-  .caballeros .gif img {
+  .series .gif img {
     margin-bottom: -19px;
     width: 137vw;
     max-height: 558px;
     margin-top: 65px; }
+  .series .text-lg-start {
+    margin-top: 10px; }
+  .series .bg-light {
+    background: #0d1387; }
+
+.series .text-lg-start {
+  margin-top: 86px; }
+
+.series .hammer {
+  margin-top: 169px; }
+
+.cuentos img {
+  margin-top: 20px;
+  transform: translate(10px, 58px);
+  width: 60vw;
+  width: 100vw;
+  height: 36vh; }
 
 .capitulos {
   background-color: black; }

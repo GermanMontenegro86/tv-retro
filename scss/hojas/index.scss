@@ -88,18 +88,23 @@
 
     }
 
-    .footer {
-        margin-bottom: auto;
-        background-color: brown;
-        margin-top: 25px;
-        height: 31px;
+    // footer
 
-        p {
-            color: black;
-            font-weight: bolder;
-            margin-left: 12px;
-        }
+    .text-lg-start{
+        margin-top: 10px;
     }
+
+    .bg{
+        background: rgba(25, 158, 23, 0.823);
+    }
+
+    .p-3{
+        color: white;
+    }
+
+
+
+    
 
     .row {
         margin-top: -7px;

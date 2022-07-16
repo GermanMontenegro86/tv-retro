@@ -11,6 +11,11 @@
     <title>Anime y series</title>
 </head>
 
+<!-- contador -->
+
+<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=3676"></a><br></center>
+
 <body class="index">
     <header>
 
@@ -76,12 +81,14 @@
 
 
 
-        <footer class="footer">
-
-            <p>Copyright &reg 2022 German Montenegro</p>
-            </section>
-
-        </footer>
+        <footer class="bg text-center text-lg-start">
+            <!-- Copyright -->
+            <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+              © 2022 
+              German Montenegro
+            </div>
+            <!-- Copyright -->
+          </footer>
 
 </body>
 

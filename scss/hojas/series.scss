@@ -1,15 +1,8 @@
-.caballeros {
+.series {
 
 
     background-color: black;
 
-    .goku {
-        width: 100vw;
-        transform: translate(0px, -39px);
-        margin-top: 36px;
-        margin-bottom: 74px;
-    }
-    
 
 
     header {
@@ -96,32 +89,22 @@
 
     }
 
-    .footer {
-        margin-bottom: auto;
-        background-color: brown;
-        height: 30px;
-        margin-top: 91px;
 
-        p {
-            color: black;
-            font-weight: bolder;
-            margin-left: 12px;
-        }
+
+    // footer
+    .series .text-lg-start {
+        margin-top: 81px;
     }
 
-    .footer__hammer{
-        margin-bottom: auto;
-        background-color: brown;
-        height: 30px;
-        margin-top: 196px;
-
-        p {
-            color: black;
-            font-weight: bolder;
-            margin-left: 12px;
-
-        }
+    .bg {
+        background: rgba(25, 158, 23, 0.823);
     }
+
+    .p-3 {
+        color: white;
+    }
+
+
 
     .gif {
         display: flex;
@@ -136,4 +119,34 @@
         max-height: 558px;
         margin-top: 65px;
     }
+
+    // footer
+
+    .text-lg-start {
+        margin-top: 10px;
+    }
+
+    .bg-light {
+        background: #0d1387;
+    }
+
 }
+
+.series .text-lg-start {
+    margin-top: 86px;
+}
+
+// footer hammer
+.series .hammer {
+    margin-top: 169px;
+}
+
+// Cuentos asombrosos
+.cuentos img{
+    margin-top: 20px;
+    transform: translate(10px, 58px);
+    width: 60vw;
+    width: 100vw;
+    height: 36vh;
+} 
+
