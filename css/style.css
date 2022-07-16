@@ -87,6 +87,10 @@
     color: white; }
     .index .text-muted a:hover {
       color: blue; }
+  .index .donacion {
+    border-radius: 40px;
+    width: 23vw;
+    transform: translate(7px, 65px); }
 
 .series {
   background-color: black; }
@@ -166,6 +170,11 @@
   width: 60vw;
   width: 100vw;
   height: 36vh; }
+
+.donacion {
+  border-radius: 40px;
+  width: 23vw;
+  transform: translate(7px, 143px); }
 
 .capitulos {
   background-color: black; }

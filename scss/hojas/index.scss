@@ -90,21 +90,21 @@
 
     // footer
 
-    .text-lg-start{
+    .text-lg-start {
         margin-top: 10px;
     }
 
-    .bg{
+    .bg {
         background: rgba(25, 158, 23, 0.823);
     }
 
-    .p-3{
+    .p-3 {
         color: white;
     }
 
 
 
-    
+
 
     .row {
         margin-top: -7px;
@@ -146,5 +146,11 @@
         }
     }
 
-
+    .donacion {
+        border-radius: 40px;
+        width: 23vw;
+        transform: translate(7px, 65px);
+    }
 }
+
+
