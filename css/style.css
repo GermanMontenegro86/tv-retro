@@ -56,7 +56,7 @@
     font-size: 2em;
     text-shadow: 2px 3px 5px blue; }
   .index .series img {
-    width: 42vw;
+    width: 30vw;
     height: 16vh;
     box-shadow: 0px 0px 3px 5px yellow; }
   .index .text-lg-start {
@@ -176,6 +176,12 @@
   width: 23vw;
   transform: translate(7px, 143px); }
 
+.series .pelicula {
+  height: 335px; }
+
+.series {
+  background-image: url("https://fondosmil.com/fondo/35285.jpg"); }
+
 .capitulos {
   background-color: black; }
   .capitulos .pagination {
@@ -290,7 +296,11 @@
     margin-left: 483px;
     margin-bottom: 16px; }
   .temporada h2 {
-    margin-left: 142px; } }
+    margin-left: 142px; }
+  .index .donacion {
+    border-radius: 40px;
+    width: 11vw;
+    transform: translate(456px, 2px); } }
 
 @media (min-width: 768px) {
   .index .navbar {
@@ -349,7 +359,11 @@
     margin-left: 351px;
     margin-bottom: 10px; }
   .temporada h2 {
-    margin-left: 142px; } }
+    margin-left: 142px; }
+  .index .donacion {
+    border-radius: 36px;
+    width: 17vw;
+    transform: translate(316px, -3px); } }
 
 @media (min-width: 1440px) {
   .index .navbar {
@@ -365,15 +379,29 @@
     max-width: 1065px;
     font-size: 1.5em;
     margin-top: -68px; }
+  .index .series {
+    height: 486px;
+    background: #360404f7; }
   .index .series img {
     justify-content: space-evenly;
     width: 18vw;
     height: 38vh; }
-  .index .footer p {
-    margin-left: 799px;
-    margin-top: 500px; }
   .h-100 {
     max-width: 26vw; }
+  .series {
+    background-image: url("https://fondosmil.com/fondo/35285.jpg"); }
+  .series header {
+    background-size: 100% 416px;
+    height: 239px; }
+  .series main img {
+    width: 36vw;
+    transform: translate(577px, -112px);
+    margin-top: 112px; }
+  .series .gif img {
+    display: none; }
+  .donacion {
+    width: 9vw;
+    transform: translate(26px, 85px); }
   .caballeros header {
     background-size: 100% 408px;
     height: 404px; }
@@ -411,4 +439,10 @@
     margin-left: 908px;
     margin-bottom: 16px; }
   .temporada h2 {
-    margin-left: 142px; } }
+    margin-left: 142px; }
+  .index .donacion {
+    border-radius: 80px;
+    width: 14vw;
+    transform: translate(827px, 13px); }
+  .index .text-lg-start {
+    margin-top: 25px; } }

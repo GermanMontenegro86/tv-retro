@@ -73,6 +73,14 @@
             </section>
 
             <section>
+                <h2>Peliculas</h2>
+
+                <a href="/pages/peliculas.html">
+                    <img src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2020/11/23/8C0BE468-5818-4D48-96AC-79ECBFD7A6DD//480x270.jpg" alt="Imagen de partes de peliculas">
+                </a>
+            </section>
+
+            <section>
                 <h2>Series</h2>
                 <a href="./pages/series.html"><img
                         src="https://www.mubis.es/media/users/2509/41314/vuestras-series-favoritas-de-los-80-90-l_cover.jpg"

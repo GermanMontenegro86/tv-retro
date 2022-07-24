@@ -23,16 +23,19 @@
         margin-top: -68px;
     }
 
+    .index .series {
+        height: 486px;
+        background: #360404f7;
+    }
+
     .index .series img {
         justify-content: space-evenly;
         width: 18vw;
         height: 38vh;
+
     }
 
-    .index .footer p {
-        margin-left: 799px;
-        margin-top: 500px;
-    }
+
 
     // Anime y series hojas
 
@@ -41,6 +44,30 @@
     }
 
     // hojas de series
+
+    .series{
+        background-image: url("https://fondosmil.com/fondo/35285.jpg");
+    }
+
+    .series header {
+        background-size: 100% 416px;
+        height: 239px;
+    }
+
+    .series main img {
+        width: 36vw;
+        transform: translate(577px, -112px);
+        margin-top: 112px;
+    }
+
+    .series .gif img {
+        display: none;
+    }
+
+    .donacion {
+        width: 9vw;
+        transform: translate(26px, 85px);
+    }
 
     .caballeros header {
         background-size: 100% 408px;
@@ -107,6 +134,20 @@
             margin-left: 142px;
         }
     }
+
+
+    .index .donacion {
+        border-radius: 80px;
+        width: 14vw;
+        transform: translate(827px, 13px);
+    }
+
+    // footer
+
+    .index .text-lg-start {
+        margin-top: 25px;
+    }
+
 
 
 }
